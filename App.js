@@ -8,7 +8,7 @@ import Carousel from 'react-native-snap-carousel';
 import Icon from 'react-native-vector-icons/MaterialIcons';
 
 const {width: screenWidth, height: screenHeight} = Dimensions.get('window');
-
+//dsdsd
 export default function App() {
   const carouselRef = useRef(null);
 
